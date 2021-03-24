@@ -10,5 +10,5 @@ Currently, I'm a research intern at NASA's Langley Research Center studying Unce
 
 I'm looking to learn even more about machine learning, artificial intelligence, theoretical statistics, and anything else.
 
-You can reach me at selkreggmills@gmail.com, my instagram is @millsmyntti, and my Strava is Mills Selkregg. 
+You can reach me at selkreggmills@gmail.com, my instagram is [@millsmyntti](https://www.instagram.com/millsmyntti/), and my Strava is [Mills Selkregg](https://www.strava.com/athletes/61002602). 
 Check out my nutrition coaching website [here](https://www.mnutritioncoaching.com/). 
